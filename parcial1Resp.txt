@@ -31,3 +31,4 @@ Theory Questions
 
 8. Explique los tipos y las variables atómicas. 
 --> las variables atomicas son aquellas que no son anteradas ni modificadas durante la ejecucion, aunque sea utilizada por varios hilos.
+
